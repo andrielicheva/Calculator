@@ -67,7 +67,7 @@ namespace Calculator
 
             Console.WriteLine("");
 
-            float resultado = v1 + v2;
+            float resultado = v1 - v2;
             Console.WriteLine($"O resultado da subtração é {resultado}");
             Console.ReadKey();
             Menu();
